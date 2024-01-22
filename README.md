@@ -1,6 +1,6 @@
 # Model Fitness - Strategi Retensi Pelanggan
 
-Kami, tim Model Fitness, dengan antusias mempersembahkan Project Sprint 12: "Strategi Retensi Pelanggan." Sebagai waralaba pusat kebugaran yang inovatif, kami terus berkomitmen untuk meningkatkan kualitas layanan kami dan memberikan pengalaman terbaik bagi pelanggan kami.
+Kami, tim Model Fitness, dengan antusias mempersembahkan project "Strategi Retensi Pelanggan." Sebagai waralaba pusat kebugaran yang inovatif, kami terus berkomitmen untuk meningkatkan kualitas layanan kami dan memberikan pengalaman terbaik bagi pelanggan kami.
 
 Salah satu tantangan utama yang kami hadapi adalah fenomena perputaran pelanggan atau customer churn, yang seringkali menjadi isu kritis dalam industri layanan kebugaran. Kami menyadari bahwa melacak dan memahami secara akurat kapan seorang pelanggan benar-benar berhenti menggunakan layanan kami bukanlah tugas yang mudah. Oleh karena itu, kami memandang perlu untuk mengembangkan strategi keterlibatan pelanggan berbasis data analitik untuk mengatasi masalah ini.
 
