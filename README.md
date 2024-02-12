@@ -6,7 +6,7 @@ Salah satu tantangan utama yang kami hadapi adalah fenomena perputaran pelanggan
 
 Dalam konteks ini, fokus utama proyek ini adalah menganalisis profil pelanggan yang telah kami digitalisasi. Kami percaya bahwa dengan memahami perilaku dan preferensi pelanggan secara lebih mendalam, kami dapat mengidentifikasi pola churn potensial sebelum mereka benar-benar terjadi. Pendekatan ini akan memungkinkan kami untuk merancang strategi retensi pelanggan yang lebih efektif, menyesuaikan pelayanan kami sesuai dengan kebutuhan individual, dan membangun hubungan yang lebih erat dengan setiap anggota komunitas fitness kami.
 
-Melalui proyek ini, kami berharap dapat mengurangi tingkat churn, meningkatkan loyalitas pelanggan, dan pada gilirannya, meningkatkan keberlanjutan bisnis kami. Dengan dedikasi untuk memberikan pengalaman fitness yang tak terlupakan, kami yakin bahwa pendekatan berbasis data ini akan membawa Model Fitness ke tingkat kesuksesan yang baru. Terima kasih atas kontribusi dan kolaborasi Anda dalam menjalankan proyek ini bersama kami. Mari bersama-sama meraih kesuksesan!
+Melalui proyek ini, kami berharap dapat mengurangi tingkat churn, meningkatkan loyalitas pelanggan, dan pada gilirannya, meningkatkan keberlanjutan bisnis . Dengan dedikasi untuk memberikan pengalaman fitness yang tak terlupakan, kami yakin bahwa pendekatan berbasis data ini akan membawa Model Fitness ke tingkat kesuksesan yang baru. 
 ## Tujuan
 **Tujuan dari project ini yaitu:**
 
@@ -38,7 +38,7 @@ Melalui proyek ini, kami berharap dapat mengurangi tingkat churn, meningkatkan l
 
 **4. Membuat klaster pengguna:**
 - Lakukan standardisasi terhadap data.󠀲󠀡󠀥󠀥󠀧󠀨󠀤󠀩󠀳
-- Gunakan fungsi linkage() untuk membuat matriks jarak berdasarkan matriks fitur yang telah distandardisasi dan buat grafik dendrogram.󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀠󠀳󠀰 Catatan: sabar ya, pembuatan dendrogram mungkin butuh waktu lebih!󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀡󠀳󠀰 Gunakan grafik yang dihasilkan untuk memperkirakan jumlah klaster yang bisa kamu pilih.󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀢󠀳
+- Gunakan fungsi linkage() untuk membuat matriks jarak berdasarkan matriks fitur yang telah distandardisasi dan buat grafik dendrogram.󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀠󠀳󠀰  
 - Latih model pengklasteran dengan algoritma K-means dan prediksikan klaster pelanggannya. (Tetapkan jumlah klasternya menjadi n=5 sehingga akan lebih mudah untuk membandingkan hasil yang kamu dapat dengan hasil dari siswa lain.󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀣󠀳󠀰 Namun ingat ya, di kehidupan nyata tidak akan ada yang memberimu petunjuk seperti itu. Oleh karena itu ke depannya, kamu harus membuat keputusan berdasarkan grafik dari langkah sebelumnya.)󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀤󠀳
 - Lihat nilai rata-rata fitur untuk semua klaster.󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀥󠀳󠀰 Apa ada yang menarik perhatianmu?󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀦󠀳
 - Buat grafik distribusi fitur untuk setiap klaster.󠀲󠀡󠀥󠀥󠀧󠀨󠀥󠀧󠀳󠀰 Apa kamu memperhatikan sesuatu?
